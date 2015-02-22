@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101-CLEP: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs. This version of ECON101 will help you master the subject of microeconomics and will help prepare you to take the CLEP exam in microeconomics"
+next: ../../../
+previous: ../Unit06
+---
 **Unit 7: Resource Markets** <span id="7"></span> 
 *This unit outlines how firms decide how much they will use their
 resources (which include land, labor, capital, and entrepreneurial

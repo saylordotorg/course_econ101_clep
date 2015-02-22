@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ECON101-CLEP: Principles of Microeconomics"
+course_description: "An introductory course that provides a basic understanding of microeconomic principles. Analyzes the economic factors influencing decisions made at the individual level, after evaluating resources, costs, and tradeoffs. This version of ECON101 will help you master the subject of microeconomics and will help prepare you to take the CLEP exam in microeconomics"
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Introduction to Economics: What Is It?** <span id="1"></span> 
 *Before we dive into the principles of microeconomics, we need to define
 some of the major ideas that lie at the heart of economics. What, for
